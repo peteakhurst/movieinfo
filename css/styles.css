@@ -3,6 +3,10 @@
 
 }
 
+.movie_title {
+  color: red;
+}
+
 
 
 @media(min-width: 960px){
@@ -12,5 +16,5 @@
 
 #movies .col-md-3 img {
   height: 240px;
-}
+  }
 };
